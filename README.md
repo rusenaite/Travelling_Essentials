@@ -1,8 +1,9 @@
 ## C++ program: Travelling Essentials
 
 ### How to run the program
-1) Open project through your preffered IDE (that supports C++) (for example, CodeBlocks with GNU GCC compiler(MinGW))
-2) Run the program from the opened **main.cpp** file
+1) Download all repository's files and unzip the zipped folder
+2) Open project through your preffered IDE (that supports C++) (for example, CodeBlocks with GNU GCC compiler(MinGW))
+3) Run the program from the opened **main.cpp** file
 
 ### How to use it
 After running the program, all you need to do is to provide enter main information:
