@@ -1,0 +1,9 @@
+1 Flashlight
+1 Portable_phone_charger
+1 Water_flask
+1 Lighter
+4 Plate/fork/knife/bowl
+1 Wallet
+1 Compass
+1 Phone
+2 Bandages
